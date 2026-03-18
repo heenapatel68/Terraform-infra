@@ -6,7 +6,7 @@ variable "storage-account-name" {}
 variable "account-tier" {}
 variable "account-replication-type" {
   type    = string
-  default = "LRS
+  default = "LRS"
 }
 variable "vm-name" {}
 

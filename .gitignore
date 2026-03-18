@@ -1,0 +1,11 @@
+# Local .terraform folder (contains downloaded modules and providers)
+.terraform/
+
+# State files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+y
